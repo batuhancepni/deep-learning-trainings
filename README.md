@@ -1,2 +1,2 @@
-# coursera-deep-learning-specialization
-Coursera, Deep Learning Specialization Documents
+# deep-learning-trainings
+Deep Learning Training Documents
